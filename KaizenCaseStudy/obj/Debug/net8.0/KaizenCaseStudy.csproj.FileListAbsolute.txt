@@ -1,0 +1,17 @@
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/bin/Debug/net8.0/KaizenCaseStudy
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/bin/Debug/net8.0/KaizenCaseStudy.deps.json
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/bin/Debug/net8.0/KaizenCaseStudy.runtimeconfig.json
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/bin/Debug/net8.0/KaizenCaseStudy.dll
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/bin/Debug/net8.0/KaizenCaseStudy.pdb
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/obj/Debug/net8.0/KaizenCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/obj/Debug/net8.0/KaizenCaseStudy.AssemblyInfoInputs.cache
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/obj/Debug/net8.0/KaizenCaseStudy.AssemblyInfo.cs
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/obj/Debug/net8.0/KaizenCaseStudy.csproj.CoreCompileInputs.cache
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/obj/Debug/net8.0/KaizenCaseStudy.dll
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/obj/Debug/net8.0/refint/KaizenCaseStudy.dll
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/obj/Debug/net8.0/KaizenCaseStudy.pdb
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/obj/Debug/net8.0/KaizenCaseStudy.genruntimeconfig.cache
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/obj/Debug/net8.0/ref/KaizenCaseStudy.dll
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/obj/Debug/net8.0/KaizenCaseStudy.csproj.AssemblyReference.cache
+/Users/alperenduymaz/RiderProjects/KaizenTechnologyCaseStudy/KaizenCaseStudy/obj/Debug/net8.0/KaizenCaseStudy.csproj.CopyComplete
